@@ -1,0 +1,42 @@
+#me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    margin-top: 20px;
+
+}
+#navbar{
+    background-color: rgb(43, 43, 43);
+}
+#brand{
+    color: white;
+}
+#about{
+    color:white;
+}
+#portfolio{
+    color: white;
+}
+#contact{
+    color: white;
+}
+#toggler{
+    background-color: white;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-image: url(../../../../Desktop/pattern.jpg );
+}
+#about-me{
+    word-wrap: break-word;
+}
+#intro{
+    font-size: 30px;
+    color: white;
+    margin-top: 30px;
+}
