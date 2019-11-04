@@ -40,3 +40,14 @@ html, body{
     color: white;
     margin-top: 30px;
 }
+.img-fluid{
+    height: 60% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 20px;
+    width: 70% !important;
+}
+#p1{
+    color: white;
+    float: left;
+}
