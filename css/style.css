@@ -51,3 +51,28 @@ html, body{
     color: white;
     float: left;
 }
+#main{
+    color: white;
+    font-size: 65px;
+    margin-top: 20px;
+}
+#contact2{
+    color: white;
+    font-size: 30px;
+    margin-top: 15px;
+}
+#contact3{
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+}
+#contact4{
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+}
+#contact5{
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+}
