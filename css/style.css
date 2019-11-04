@@ -30,7 +30,7 @@ html, body{
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
-    background-image: url(../../../../Desktop/pattern.jpg );
+    background-image: url(../assets/photos/pattern.jpg);
 }
 #about-me{
     word-wrap: break-word;
